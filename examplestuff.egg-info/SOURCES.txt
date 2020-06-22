@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+data/play1.yaml
+examplecode/__init__.py
+examplecode/examplepac1.py
+examplestuff.egg-info/PKG-INFO
+examplestuff.egg-info/SOURCES.txt
+examplestuff.egg-info/dependency_links.txt
+examplestuff.egg-info/not-zip-safe
+examplestuff.egg-info/top_level.txt

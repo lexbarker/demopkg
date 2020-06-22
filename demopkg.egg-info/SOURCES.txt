@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+bin/rundemo.py
+data/play1.yaml
+demopkg.egg-info/PKG-INFO
+demopkg.egg-info/SOURCES.txt
+demopkg.egg-info/dependency_links.txt
+demopkg.egg-info/not-zip-safe
+demopkg.egg-info/top_level.txt
+examplecode/__init__.py
+examplecode/examplepac1.py
